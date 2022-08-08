@@ -12,3 +12,8 @@ h1.cond(True)
 
 print(h1)
 print(h2)
+
+
+
+h3=House('Dom2')
+h4=House('Afrika',60)
