@@ -14,11 +14,8 @@ print(h2)
 
 h3 = House('Dom2')
 h4 = House('Afrika', 60)
-
 h4.hot()
-
 h3.cond()
-
 print(h1, h2, h3, h4)
 
 print('hello git')
