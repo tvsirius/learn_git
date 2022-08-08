@@ -17,3 +17,6 @@ print(h2)
 
 h3=House('Dom2')
 h4=House('Afrika',60)
+
+h4.hot()
+
